@@ -1,10 +1,10 @@
-
+import LogIn from "./pages/LogIn"
 
 function App() {
 
   return (
     <>
-
+      <LogIn />
     </>
   )
 }
